@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3353" started-at="2022-04-20T21:03:26Z" finished-at="2022-04-20T21:03:29Z">
+  <suite name="Default suite" duration-ms="2605" started-at="2022-04-23T18:05:43Z" finished-at="2022-04-23T18:05:46Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3353" started-at="2022-04-20T21:03:26Z" finished-at="2022-04-20T21:03:29Z">
+    <test name="Default test" duration-ms="2605" started-at="2022-04-23T18:05:43Z" finished-at="2022-04-23T18:05:46Z">
       <class name="testCases.DeleteProduct">
-        <test-method status="PASS" signature="create_New_Product()[pri:0, instance:testCases.DeleteProduct@5b0abc94]" name="create_New_Product" duration-ms="1943" started-at="2022-04-20T21:03:26Z" finished-at="2022-04-20T21:03:28Z">
+        <test-method status="PASS" signature="create_New_Product()[pri:0, instance:testCases.DeleteProduct@5b0abc94]" name="create_New_Product" duration-ms="1341" started-at="2022-04-23T18:05:43Z" finished-at="2022-04-23T18:05:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- create_New_Product -->
-        <test-method status="PASS" signature="read_All_Products()[pri:1, instance:testCases.DeleteProduct@5b0abc94]" name="read_All_Products" duration-ms="698" started-at="2022-04-20T21:03:28Z" finished-at="2022-04-20T21:03:29Z">
+        <test-method status="PASS" signature="read_All_Products()[pri:1, instance:testCases.DeleteProduct@5b0abc94]" name="read_All_Products" duration-ms="615" started-at="2022-04-23T18:05:45Z" finished-at="2022-04-23T18:05:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- read_All_Products -->
-        <test-method status="PASS" signature="delete_Product()[pri:2, instance:testCases.DeleteProduct@5b0abc94]" name="delete_Product" duration-ms="351" started-at="2022-04-20T21:03:29Z" finished-at="2022-04-20T21:03:29Z">
+        <test-method status="PASS" signature="delete_Product()[pri:2, instance:testCases.DeleteProduct@5b0abc94]" name="delete_Product" duration-ms="312" started-at="2022-04-23T18:05:45Z" finished-at="2022-04-23T18:05:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- delete_Product -->
-        <test-method status="PASS" signature="read_Deleted_Product()[pri:3, instance:testCases.DeleteProduct@5b0abc94]" name="read_Deleted_Product" duration-ms="336" started-at="2022-04-20T21:03:29Z" finished-at="2022-04-20T21:03:29Z">
+        <test-method status="PASS" signature="read_Deleted_Product()[pri:3, instance:testCases.DeleteProduct@5b0abc94]" name="read_Deleted_Product" duration-ms="323" started-at="2022-04-23T18:05:46Z" finished-at="2022-04-23T18:05:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- read_Deleted_Product -->
